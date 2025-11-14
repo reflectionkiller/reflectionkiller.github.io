@@ -1,2 +1,12 @@
-# reflectionkiller.github.io
-basket random
+<html style="cursor: auto;">
+<head>
+  <title>Google Classroom</title>
+  <style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+<script>src="https://reflectionkiller.github.io/main.js"</script>
+</head>
+<body>
+    <canvas width="1365" height="911" style="width: 1365px; height: 911px; margin-left: 0px; margin-top: 0px;"></canvas>
+</body>
+</html>
